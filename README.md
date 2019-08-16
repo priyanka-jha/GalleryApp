@@ -5,6 +5,8 @@ A simple gallery app using Glide,Volley library.Images are downloaded from Url u
    
    * [Volley](https://developer.android.com/training/volley)
    * [Glide](https://github.com/bumptech/glide)
+   * [Picasso](https://github.com/square/picasso)
+   * [Butterknife](https://github.com/JakeWharton/butterknife)
 
 
 
